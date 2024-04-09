@@ -1,0 +1,82 @@
+[intro html ]
+
+ HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web  pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML  elements tell the browser how to display the content.
+
+why html used?
+ is the language used to tell your web browser what each part of a website is. So, using HTML, you can  define headers, paragraphs, links, images,etc. browser knows how to structure the web page you're  looking at.
+
+What is an HTML boilerplate?
+ HTML Boilerplate includes a basic structure for an HTML document, like the typical html , head , and  body tags.
+ 
+What is doctypes in html and how it is use?
+ a doctype is a declaration that specifies the document.. 
+ It is always placed at the very start of the HTML document, before the <html> tag. For    HTML5,     the doctype declaration is simply: <!DOCTYPE html>. exclamation mark and enter...
+
+[htmal vs htmal5]
+
+ HTML5 is the latest version of HTML and supports new markup language functionalities such as  multimedia, new tags and elements. HTML5 also supports audio and video. HTML does not provide native  audio and video support. HTML5 provides native audio and video support.
+
+HTML uses browser cache memory as temporary storage. HTML5 offers multiple storage options.
+
+the first tag of the code If it is simply <! DOCTYPE html> then your code is written in HTML5.
+
+How many tags in HTML5?
+ There are approximately 110 tags in HTML5.
+
+[tag and elment]
+
+Are the HTML tags and elements the same thing?
+  <p>HTML tags and element</p>
+
+An HTML element is defined by a starting tag. If the element contains other content, it ends with a closing tag. For example <p> is starting tag of a paragraph and </p> is closing tag of the same paragraph but <p>This is paragraph</p> is a paragraph element.
+
+
+What is HTML basic tag in use?
+ <html>: This is the root element of an HTML document, which contains all the other elements.
+ <head>: This element contains metadata about the document, such as the title, charset,and links to  external stylesheets or scripts.
+ <body>: This element contains the content of the web page, such as text, images, and other elements.
+ <h1> to <h6>: These elements are used to define headings and subheadings on the web page.
+ <p>: This element is used to define a paragraph of text.
+ <ul> and <ol>: These elements are used to create unordered and ordered lists, respectively.
+ <li>: This element is used to define a list item within a list.
+ <a>: This element is used to create hyperlinks to other web pages or resources.
+ <img>: This element is used to insert images into the web page.
+ <table>: This element is used to create tables with rows and columns of data.
+
+
+ What are void elements in HTML?
+ void elements are elements that do not have a closing tag. They are self-closing..
+<br>:  create a line break within a paragraph.
+<img>:insert an image .
+<input>:create a form field, such as a text input or a checkbox.
+<link>:link to an external stylesheet or script.
+<meta>:provide metadata about the web page, such as the page title, charset, or keywords.
+<param>:provide additional information about an HTML element, such as the name of a  script or the value of a form field.
+<source>:alternative sources for multimedia content, such as a video or audio file.
+
+What is html comments how to apply?
+  HTML comments are used to add notes or explanations within the HTML code that are not displayed in     the browser. They’re useful for documentation, to provide instructions.
+  <!-- This is a comment -->
+
+What is marquee tag in html?
+  The <marquee> tag in HTML is used to create a scrolling text or image, moving the content across the   screen either horizontally or vertically. However, it’s important to note that the <marquee> tag is    a non-standard HTML element and has been deprecated in HTML5.
+
+[HTML Block and Inline Elements]
+
+HTML Elements are classified as Block Level and Inline Level elements on the basics of their display. Some elements display as blocks and some inline.
+
+HTML Block level elements are elements who behave like blocks, like <p>, <h1>, <div>, <ul>, <ol>, <pre> and <address>. These elements always starts from a new line and occupy full width of parent element. 
+
+<p> <div> <h1> < h2> <address> etc are block level elements,
+<b>, <strong>, <i>, <span>, <u> and <s> are inline level elements.
+
+What is a quote tag?
+ <quote>` tag (or `<q>` tag): - This tag is used to indicate a short inline quotation within a  paragraph.
+
+What is blockquote tag in HTMl?
+ The <blockquote> element defines a block of text that is a direct quotation. The <quote> element  should be used when a quotation is presented inline with the surrounding text, but when the quotation  is presented as a separate paragraph.
+
+--What is HTML attributes?
+--HTML how to script apply?
+
+
